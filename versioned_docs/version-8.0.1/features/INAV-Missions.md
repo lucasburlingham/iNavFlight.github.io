@@ -52,9 +52,9 @@ Telemetry viewer is an Android application which allows you to track your teleme
 * KML, KMZ files
 * Plain, simple CSV files
 
-Please see [impload's wiki user guide](https://github.com/stronnag/impload/wiki/impload-User-Guide) for more information and CSV format.
+Please see [impload's wiki user guide]([https://github.com/stronnag/impload/wiki/impload-User-Guide](https://stronnag.codeberg.page/impload/)) for more information and CSV format.
 
-[mwp](https://github.com/stronnag/mwptools) can be run in a virtual machine on MS Windows and OSX / macOS, using virtualisation tools such as VirtualBox and Parallels.
+[mwp]([https://github.com/stronnag/mwptools](https://codeberg.org/stronnag/mwptools)) can be run in a virtual machine on MS Windows and OSX / macOS, using virtualisation tools such as VirtualBox and Parallels.
 
 WinGUI is a Windows program developed for Multiwii-nav. It is currently somewhat abandoned, but would be a viable basis for developing a Windows program for INAV navigation (or better, supporting both Multiwii and INAV, as do the other tools described here). Should anyone wish to rescue this fine application, the source code (GPL v3) may be found at https://code.google.com/archive/p/mw-wingui/.
 
